@@ -6,7 +6,7 @@
 }
 
 .nav_sup{
-    background-image: linear-gradient(to right, #106A83, #444573, #CE1142, #FCAC0B, #FFEC03);
+    background-image: linear-gradient(to left, #106A83, #444573, #CE1142, #FCAC0B, #FFEC03);
     display: flex;
     justify-content: center;
     position: relative;
@@ -38,7 +38,7 @@
 .footer{
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(to right, #106A83, #444573, #CE1142, #FCAC0B, #FFEC03);
+    background-image: linear-gradient(to left, #106A83, #444573, #CE1142, #FCAC0B, #FFEC03);
     width: 100%;
 }
 
