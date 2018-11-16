@@ -29,7 +29,6 @@
 .galeria .quadros{
     width: 250px;
     height: 250px;
-    background-image: linear-gradient(to right, #106A83, #444573, #CE1142, #FCAC0B, #FFEC03);
     margin: 30px;
     overflow: hidden;
     position: relative;
